@@ -1,0 +1,65 @@
+[
+  {
+    "id": "item-1",
+    "col": 1,
+    "row": 1,
+    "size_x": 1,
+    "size_y": 1
+  },
+  {
+    "id": "item-2",
+    "col": 2,
+    "row": 3,
+    "size_x": 1,
+    "size_y": 1
+  },
+  {
+    "id": "item-3",
+    "col": 3,
+    "row": 1,
+    "size_x": 1,
+    "size_y": 1
+  },
+  {
+    "id": "item-4",
+    "col": 1,
+    "row": 2,
+    "size_x": 1,
+    "size_y": 1
+  },
+  {
+    "id": "item-5",
+    "col": 1,
+    "row": 3,
+    "size_x": 1,
+    "size_y": 1
+  },
+  {
+    "id": "item-6",
+    "col": 2,
+    "row": 2,
+    "size_x": 1,
+    "size_y": 1
+  },
+  {
+    "id": "item-7",
+    "col": 3,
+    "row": 3,
+    "size_x": 1,
+    "size_y": 1
+  },
+  {
+    "id": "item-8",
+    "col": 2,
+    "row": 1,
+    "size_x": 1,
+    "size_y": 1
+  },
+  {
+    "id": "item-9",
+    "col": 3,
+    "row": 2,
+    "size_x": 1,
+    "size_y": 1
+  }
+]
